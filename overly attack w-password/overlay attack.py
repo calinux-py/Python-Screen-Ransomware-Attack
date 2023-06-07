@@ -1,3 +1,6 @@
+# overlay ransomeware
+# created by calinux
+
 import tkinter as tk
 from PIL import Image, ImageTk
 
